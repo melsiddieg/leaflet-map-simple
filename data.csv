@@ -1,4 +1,8 @@
 Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
-Trinity College,"300 Summit St, Hartford CT 06106",41.745167,-72.69263,"300 SUMMIT ST, HARTFORD, CT, 06106",Exact,US Census
-Capital Community College,950 Main St Hartford CT 06103,41.768074,-72.673065,"950 MAIN ST, HARTFORD, CT, 06103",Exact,US Census
-University of Hartford,"200 Bloomfield Ave, West Hartford CT 06117",41.794655,-72.71764,"200 BLOOMFIELD AVE, WEST HARTFORD, CT, 06117",Exact,US Census
+Al-Kalakla,"Al-Kalakla, Khartoum, Sudan",15.4621937,32.4806894,,,
+Tabat,"Tabat, Sudan",14.6646868,33.092967,,,
+Omdurman,"Omdurman, Sudan",15.6475782,32.4806894,,,
+Al-Hasaheisa,"Al-Hasaheisa, Sudan",14.7366711,33.3022699,,,
+Almaseed,"Almaseed, Sudan",15.2550139,32.9536264,,,
+Jebel Aulia,"Jebel Aulia, Sudan",15.2286363,32.5259596,,,
+Al Sajjana,"Al Sajjana, Khartoum, Sudan",15.5752523,32.5287884,,,
